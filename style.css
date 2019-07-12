@@ -1,0 +1,62 @@
+* {
+	font-family: 'Nanum Gothic', sans-serif;
+}
+
+body {
+	background-image: url(image.jpg);
+	background-size: cover;
+	text-align: center;
+}
+
+#content {
+	margin: auto;
+	margin-top: 90px;
+	height: 500px;
+	width: 500px;
+	opacity: 0.96;
+	background-color: gray;
+	border-radius: 30px;
+}
+
+#title {
+	display: inline-block;
+	font-size: 40px;
+	color:  rgb(211, 33, 33);
+}
+
+#menu {
+	text-align: start;
+	font-size:20px;
+	line-height: 50px;
+}
+
+#tabs {
+	background-color: #F5C396;
+	height: 500px;
+	width: 500px;
+	margin: auto;
+}
+
+.button {
+	height: 30px;
+	width: 140px;
+	margin-top: -30px;
+}
+
+button:focus {
+	outline: none;
+}
+
+img {
+	height: 80px;
+	width: 120px;
+}
+
+.tab {
+	margin: auto;
+	margin-top: 30px;
+	height: 400px;
+	width: 400px;
+	text-align: center;
+	line-height: 22px;
+}
