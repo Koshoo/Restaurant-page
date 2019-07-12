@@ -1,0 +1,24 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.5"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koshoo/Restaurant-page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Koshoo/Restaurant-page/issues"
+  },
+  "homepage": "https://github.com/Koshoo/Restaurant-page#readme",
+  "description": ""
+}
